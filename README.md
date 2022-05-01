@@ -9,22 +9,10 @@
 
 <h3 align="left">Progamming Languages:</h3>
 <p align="left">
-    <a
-        href="https://www.cprogramming.com/"
-        target="_blank"
-        rel="noreferrer"
-    >
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
             width="40"
             height="40"
         />
@@ -41,10 +29,22 @@
             height="40"
         />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a
+        href="https://www.cprogramming.com/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+            alt="c"
             width="40"
             height="40"
         />
@@ -93,14 +93,6 @@
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
     <a
         href="https://www.djangoproject.com/"
         target="_blank"
@@ -109,6 +101,14 @@
         <img
             src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
             alt="django"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
             width="40"
             height="40"
         />
@@ -140,14 +140,6 @@
             height="40"
         />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -160,6 +152,14 @@
         <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb"
             width="40"
             height="40"
         />
