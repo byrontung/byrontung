@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Byron Tung</h1>
 <h3 align="center">
     I am a 3rd year Specialization in Computer Science student at the
-    University of Alberta
+    University of Alberta.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
